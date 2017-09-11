@@ -17,7 +17,7 @@ Ubuntu is published by Canonical Ltd, who offer commercial support. It is based 
 - You are now ready to write your first Linux base C program. Copy and paste the following code:
 ```c
 /*
-* Each C file should have a comment block *like this describing what it does.
+* Each C file should have a comment block like this describing what it does.
 *Followed by YOUR_NAME
 *And DATE
 */
