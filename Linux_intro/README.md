@@ -18,17 +18,19 @@ Ubuntu is published by Canonical Ltd, who offer commercial support. It is based 
 ```c
 /*
 * Each C file should have a comment block like this describing what it does.
-*Followed by YOUR_NAME
-*And DATE
+* Followed by YOUR_NAME
+* And DATE
 */
 
 /* Hello World program .
-* Author Barth O'Keeffe 14180847.
-* Date : 11/09/2017
+*  Author Barth O'Keeffe 14180847.
+*  Date : 11/09/2017
 */
 
+//libraries required
 #include<stdio.h>
 
+//main function
 int main()
 {   
     //comment your code as much as possible for clarity.
