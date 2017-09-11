@@ -22,7 +22,8 @@ Ubuntu is published by Canonical Ltd, who offer commercial support. It is based 
 * And DATE
 */
 
-/* Hello World program .
+/* 
+*  Hello World program .
 *  Author Barth O'Keeffe 14180847.
 *  Date : 11/09/2017
 */
