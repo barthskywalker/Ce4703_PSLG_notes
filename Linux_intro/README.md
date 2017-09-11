@@ -4,7 +4,7 @@ Ubuntu (/ʊˈbuːntuː/ uu-BOON-too, stylized as ubuntu) is an open source opera
 Ubuntu is published by Canonical Ltd, who offer commercial support. It is based on free software and named after the Southern African philosophy of ubuntu (literally, 'human-ness'), which Canonical Ltd. suggests can be loosely translated as "humanity to others" or "I am what I am because of who we all are".
 
 ## Some common commands that will be useful for CE4703:
-- The fist thing you need to be able to do is start a terminal session the fastest way to do this is whit the short cut command:
+- The fist thing you need to be able to do is start a terminal session the fastest way to do this is with the short cut command:
   - `ctrl+alt+t`
   - To open an new terminal tab use: `ctrl+shift+t`.
 
@@ -12,9 +12,10 @@ Ubuntu is published by Canonical Ltd, who offer commercial support. It is based 
   - `mkdir FOLDER_NAME`.
   - Now you need to switch to this directory: `cd FOLDER_NAME`.
   - Now you need to create your C file: `touch MY_FILE.c`.
-  - Now you need to open your file in a text editor, the Gedit text editor comes pre installed as standard: `gedit MY_FILE.c &`.
+  - Now you need to open your file in a text editor, the Gedit text editor comes pre installed as standard:
+    `gedit MY_FILE.c &`.
     - The purpose of the `&` is to unlock Gedit from the terminal session.
-- You are now ready to write your first Linux base C program. Copy and paste the following code:
+- You are now ready to write your first Linux based C program. Copy and paste the following code:
 ```c
 /*
 * Each C file should have a comment block like this describing what it does.
