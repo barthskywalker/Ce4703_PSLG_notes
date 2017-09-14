@@ -37,8 +37,10 @@ int main()
 {   
     //comment your code as much as possible for clarity.
     // prints "Hello World" to screen
-    printf("Hello World");
+    printf("Hello World\n");
 
 
 }
 ```
+- ### Now you need to compile your code:
+`gcc -std=c11 -ggdb helloworld.c -o helloworld`
