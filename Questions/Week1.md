@@ -61,4 +61,4 @@
 
    - `while (condition) {statement}`
    - `do {statement} while (condition)`
-   - `for (int i = 0; i > 10; i++) {statement}
+   - `for (int i = 0; i > 10; i++) {statement}`
